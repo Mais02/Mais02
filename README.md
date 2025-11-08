@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mary Aisling O´Toole Loría</h1>
 <h3 align="center">A Fullstack developer, passionate about Software and Computer Programming</h3>
 
+- 👯 I’m looking to collaborate on **Site Reliability Engineering**
+
 - 📫 How to reach me **maryaisl02@gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/dlpdbu1m9ulh](https://flowcv.com/resume/dlpdbu1m9ulh)
